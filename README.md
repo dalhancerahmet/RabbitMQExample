@@ -24,3 +24,5 @@ Yukarıdaki 5. Adıma kadar olan herşey burada da geçerli
 4. Adım gelen mesaj byte array türünden olduğu için, okumak adına bunu tekrar string ifadeye dönüştürmek gereklidir.
 
 Encoding.UTF8.GetString(body) ile string değere dönüştürüyoruz.
+
+Bitti :)
